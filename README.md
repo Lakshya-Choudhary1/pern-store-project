@@ -1,7 +1,5 @@
 <h1 align="center">✨ PERN Stack Tutorial ✨</h1>
 
-
-
 Highlights:
 
 - 🌟 Tech stack: PERN + TailwindCSS + Daisy UI
