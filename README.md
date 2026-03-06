@@ -1,8 +1,4 @@
-<h1 align="center">✨ PERN Stack Tutorial ✨</h1>
-
-
-<h1>LIVE CLICK HERE</h1>
-     <a href="https://pern-store-project-4xsn.onrender.com">https://pern-store-project-4xsn.onrender.com</a>
+<h1 align="center">✨ PERN Stack Store ✨</h1>
 
 
 
